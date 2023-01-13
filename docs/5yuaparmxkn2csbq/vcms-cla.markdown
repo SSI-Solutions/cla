@@ -1,4 +1,7 @@
-# Contributor License Agreement ("Agreement")
+---
+title: Contributor License Agreement ("Agreement")
+layout: home
+---
 
 This agreement is based on the Apache Software Foundation Contributor License Agreement. (v r190612)
 

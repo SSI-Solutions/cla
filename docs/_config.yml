@@ -22,7 +22,7 @@ title: ""
 description: ""
 domain: ssi-solutions.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://ssi-solutions.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /cla/ 
+baseurl: /cla
 
 # Build settings
 theme: minima
